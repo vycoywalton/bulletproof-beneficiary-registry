@@ -1,3 +1,3 @@
 # Bulletproof Beneficiary
 
-Generated from PBOS blueprint `8e8a2730-1148-44de-a3ec-317e8d8b991d`. Validation, certification, and deployment remain human-controlled gates.
+Generated from PBOS blueprint `dd3ab7af-7230-40a5-b6ab-ceb001609244`. Validation, certification, and deployment remain human-controlled gates.
