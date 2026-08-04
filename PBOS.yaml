@@ -1,0 +1,5 @@
+systemId: BULLETPROOF-BENEFICIARY-SYSTEM-001
+operatingSystemId: BULLETPROOF-BENEFICIARY-OS-001
+pbosVersion: 1.0.0
+domainPack: @pbos/domain-legacy-planning
+blueprintId: 97939b37-9cea-4dd9-9d29-d568e25f2eb0
