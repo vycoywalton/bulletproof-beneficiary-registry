@@ -28,5 +28,4 @@ export const designTokens = {
     "LIGHT",
     "DARK"
   ]
-}
- as const;
+} as const;
